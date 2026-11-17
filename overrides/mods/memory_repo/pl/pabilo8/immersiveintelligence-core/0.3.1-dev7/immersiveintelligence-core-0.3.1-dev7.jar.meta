@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+FMLCorePlugin: pl.pabilo8.immersiveintelligence.common.asm.IILoadingPlug
+ in
+Maven-Artifact: pl.pabilo8:immersiveintelligence-core:0.3.1-dev7
+
+Name: pl/pabilo8/immersiveintelligence/common/asm/IIClassTransformer.cla
+ ss
+SHA-384-Digest: aBl8nYnlgkrVtxoC7Z2tmCjmy6FES2tVmMFeJzwggQ4/EKKr90OzohNQ
+ jcKaEybk
+
+Name: pl/pabilo8/immersiveintelligence/common/asm/IIClassTransformer$Met
+ hodTransformer.class
+SHA-384-Digest: VhLMTz7LsNOsiS2As8l93JGM3CiPqwEQCqJI5AWiwBoyYZBS+1r6pdh2
+ rvsixZkT
+
+Name: pl/pabilo8/immersiveintelligence/common/asm/IILoadingPlugin.class
+SHA-384-Digest: M4vGZeOqZnmdGv/5frkmZHXdVREMXEcq2WzAWlQcUt6V9kw/aOPuduEi
+ 9LBtda5K
+
+Name: pl/pabilo8/immersiveintelligence/common/asm/IIClassTransformer$1.c
+ lass
+SHA-384-Digest: LHv7kTWMBqwc3sqyuvsIULsFWkFTlRO3VIPZ0/syXvkZGhD3ZT21G1Xn
+ 3B4dXP7J
+

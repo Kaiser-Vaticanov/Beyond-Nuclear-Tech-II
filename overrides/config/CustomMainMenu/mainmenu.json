@@ -1,0 +1,203 @@
+{
+    "images":
+    {
+        "logo":
+        {
+            "image" : "mainmenu:textures/logo.png",
+            "posX" : -260,
+            "posY" : 20,
+            "width" : 520,
+            "height" : 50,
+            "alignment" : "top_center"
+        },
+		"panel":
+        {
+            "image" : "mainmenu:textures/bg_menu.png",
+            "posX" : 25,
+            "posY" : -75,
+            "width" : 220,
+            "height" : 275,
+            "alignment" : "left_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16755200,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : -65,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16755200,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : -31,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "discord":
+        {
+            "text" : "Discord Community",
+            "normalTextColor" : 10070783,
+            "hoverTextColor" : 16777215,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : 3,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "hoverText" : "Join the official BNT II Discord!",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/sgJyC3F2zt"
+            }
+        },
+        "mods":
+        {
+            "text" : "Mods #modsactive#/#modsloaded#",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16755200,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : 37,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "options":
+        {
+            "text" : "menu.options",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16755200,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : 71,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "language":
+        {
+            "text" : "options.language",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16755200,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : 105,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16733525,
+            "texture" : "mainmenu:textures/btn.png",
+            "posX" : 35,
+            "posY" : 139,
+            "width" : 200,
+            "height" : 26,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        "refresh":
+        {
+            "text" : "R",
+            "posX" : -25,
+            "posY" : 5,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "top_right",
+            "hoverText" : "Reload Menu",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    "labels":
+    {
+        "credits":
+        {
+            "text" : "Backgrounds: ESO, NASA/ESA, Wikimedia Commons (CC BY-SA 4.0)",
+            "posX" : -325,
+            "posY" : -24,
+            "color" : 13421772,
+            "alignment" : "bottom_right"
+        },
+        "version":
+        {
+            "text" : "Beyond Nuclear Tech II v1.0.6",
+            "posX" : -165,
+            "posY" : -12,
+            "color" : 16777215,
+            "alignment" : "bottom_right"
+        }
+    },
+    "other":
+    {
+        "background":
+        {
+            "image" : "",
+            "mode" : "stretch",
+            "slideshow":
+            {
+                "images" : [
+                    "mainmenu:textures/bg_1.png",
+                    "mainmenu:textures/bg_2.png",
+                    "mainmenu:textures/bg_3.png",
+                    "mainmenu:textures/bg_4.png",
+                    "mainmenu:textures/bg_5.png",
+                    "mainmenu:textures/bg_6.png",
+                    "mainmenu:textures/bg_7.png",
+					"mainmenu:textures/bg_8.png",
+					"mainmenu:textures/bg_9.png"
+                ],
+                "displayDuration" : 160,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}
