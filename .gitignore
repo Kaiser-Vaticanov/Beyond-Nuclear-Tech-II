@@ -1,0 +1,22 @@
+# Моды и библиотеки
+mods/*.jar
+mods/1.12/
+mods/memory_repo/
+libraries/
+
+# Миры, логи, краши и кэш
+saves/
+logs/
+crash-reports/
+screenshots/
+asm/
+cache/
+local/
+shaderpacks/
+
+# Личные настройки игрока
+options.txt
+optionsof.txt
+servers.dat
+usernamecache.json
+usercache.json
