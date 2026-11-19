@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"Hold a piece of flint in your hand and right-click on a stone to obtain a flint shard."
+	],
+	dependencies: [
+		"3e6518c1"
+	],
+	tasks: [{
+		uid: "ed08dd84",
+		type: "item",
+		items: [{
+			item: "notreepunching:flint_shard"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -3.5d,
+	dependencies: [
+		"86dfe292"
+	],
+	tasks: [{
+		uid: "314ccc9c",
+		type: "item",
+		items: [{
+			item: "notreepunching:axe/flint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"a63a020f"
+	],
+	tasks: [{
+		uid: "78881167",
+		type: "item",
+		items: [{
+			item: "notreepunching:rock/stone"
+		}]
+	}]
+}

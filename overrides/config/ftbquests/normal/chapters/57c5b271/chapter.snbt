@@ -1,0 +1,7 @@
+{
+	title: "[ERA I] Stage 1: Primitive Survival",
+	icon: "minecraft:grass",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

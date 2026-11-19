@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: -1.5d,
+	dependencies: [
+		"e50638a6",
+		"cc66d071"
+	],
+	tasks: [{
+		uid: "9cdca0b9",
+		type: "item",
+		items: [{
+			item: "notreepunching:knife/flint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

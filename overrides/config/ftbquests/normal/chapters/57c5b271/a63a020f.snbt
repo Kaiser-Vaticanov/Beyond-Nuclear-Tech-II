@@ -1,0 +1,12 @@
+{
+	icon: "minecraft:grass",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Start of the modpack: Beyond Nuclear Tech"
+	],
+	tasks: [{
+		uid: "7ffc4d73",
+		type: "checkmark"
+	}]
+}

@@ -45,9 +45,9 @@ Specs are defined by `Ref`'s that are valid for that option.
 | yzcetid          | -4103   | exoplanets               |
 | yzcetic          | -4102   | exoplanets               |
 | yzcetib          | -4101   | exoplanets               |
-| tauceti_f        | -1338   | galaxyspace              |
 | proxima_b        | -1025   | galaxyspace              |
 | barnarda_c       | -1030   | galaxyspace              |
+| tauceti_f        | -1338   | galaxyspace              |
 | haumea           | -1023   | galaxyspace              |
 | kuiperbelt       | -1009   | galaxyspace              |
 | pluto            | -1008   | galaxyspace              |

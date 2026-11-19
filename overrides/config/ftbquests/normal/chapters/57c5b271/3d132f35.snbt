@@ -1,0 +1,28 @@
+{
+	x: 11.0d,
+	y: -3.5d,
+	text: [
+		"Place the logwood and right-click on the top part of it."
+	],
+	dependencies: [
+		"f826ed9b"
+	],
+	tasks: [{
+		uid: "af614851",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plankWood"
+				}
+			}
+		}]
+	}]
+}

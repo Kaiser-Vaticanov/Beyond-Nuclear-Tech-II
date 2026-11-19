@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: -1.5d,
+	text: [
+		"Break leaves to get sticks"
+	],
+	dependencies: [
+		"a63a020f"
+	],
+	tasks: [{
+		uid: "01247a62",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}]
+}

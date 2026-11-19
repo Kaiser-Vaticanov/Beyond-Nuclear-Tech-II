@@ -1,0 +1,20 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"Obtain flint or gravel; you can craft flint using 3 units of gravel."
+	],
+	dependencies: [
+		"a63a020f"
+	],
+	tasks: [{
+		uid: "ad31188d",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		},
+		{
+			item: "minecraft:gravel"
+		}]
+	}]
+}

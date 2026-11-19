@@ -2383,396 +2383,756 @@
       "fluid": [["Titanium",216]]
     },
     {
-      "input": ["item","thermalfoundation:material",1,1],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:edencopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","moreplanets:infected_copper_ore"],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","zollerngalaxy:centogoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_gold_ore"],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_iron",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,14],
-      "solid": ["immersiveengineering:metal",1,5]
-    },
-    {
-      "input": ["item","hbm:arc_electrode_burnt",1,1],
-      "solid": ["hbm:ingot_lanthanium"]
-    },
-    {
-      "input": ["item","jaopca:ic2_purified_crushed.ardite"],
-      "solid": ["tconstruct:ingots",1,1]
-    },
-    {
-      "input": ["item","moreplanets:chalos_iron_ore"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_iron_ore"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:astrosgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","mekanism:dust",1,7],
-      "solid": ["mekanism:ingot",1,8]
-    },
-    {
-      "input": ["item","zollerngalaxy:oasisgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","tconstruct:ore",1,1],
-      "solid": ["tconstruct:ingots",1,1]
-    },
-    {
-      "input": ["item","hbm:powder_dura_steel",1,32767],
-      "solid": ["hbm:ingot_dura_steel"]
-    },
-    {
-      "input": ["item","moreplanets:infected_silicon_ore"],
-      "solid": ["galacticraftcore:basic_item",1,2]
-    },
-    {
-      "input": ["item","hbm:powder_zirconium",1,32767],
-      "solid": ["hbm:ingot_zirconium"]
-    },
-    {
-      "input": ["item","hbm:waste_trinitite_red"],
-      "solid": ["hbm:glass_trinitite"]
-    },
-    {
-      "input": ["item","moreplanets:diona_copper_ore"],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,6],
-      "solid": ["exoplanets:metalingot",1,6]
-    },
-    {
-      "input": ["item","hbm:powder_beryllium",1,32767],
-      "solid": ["hbm:ingot_beryllium"]
-    },
-    {
-      "input": ["item","hbm:sand_uranium"],
-      "solid": ["hbm:glass_uranium"]
-    },
-    {
-      "input": ["item","hbm:powder_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:mars",1,1],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,11],
-      "solid": ["galaxyspace:ingots"]
-    },
-    {
-      "input": ["item","hbm:powder_au198",1,32767],
-      "solid": ["hbm:ingot_au198"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_quartz_ore"],
-      "solid": ["minecraft:quartz"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,12],
-      "solid": ["galaxyspace:ingots",1,2]
-    },
-    {
-      "input": ["item","hbm:powder_euphemium",1,32767],
-      "solid": ["hbm:ingot_euphemium"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore",1,4],
-      "solid": ["immersiveengineering:metal",1,4]
-    },
-    {
-      "input": ["item","mekanism:dust",1,4],
-      "solid": ["mekanism:ingot",1,6]
-    },
-    {
-      "input": ["item","jaopca:dust.pigiron"],
-      "solid": ["tconstruct:ingots",1,4]
-    },
-    {
-      "input": ["item","hbm:powder_polymer",1,32767],
-      "solid": ["hbm:ingot_polymer"]
-    },
-    {
-      "input": ["item","hbm:ore_copper",1,32767],
-      "solid": ["hbm:ingot_copper"]
-    },
-    {
-      "input": ["item","zollerngalaxy:kriffcopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.titanium"],
-      "solid": ["exoplanets:metalingot",1,6]
-    },
-    {
-      "input": ["item","zollerngalaxy:altumgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:item_basic_asteroids",1,9],
-      "solid": ["galacticraftplanets:item_basic_asteroids"]
-    },
-    {
-      "input": ["item","galacticraftcore:basic_block_moon",1,6],
-      "solid": ["galacticraftcore:item_basic_moon",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:xathironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_titanium",1,32767],
-      "solid": ["hbm:ingot_titanium"]
-    },
-    {
-      "input": ["item","galaxyspace:ioblocks",1,3],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:ore_thorium",1,32767],
-      "solid": ["hbm:ingot_th232"]
-    },
-    {
-      "input": ["item","hbm:powder_sr90",1,32767],
-      "solid": ["hbm:ingot_sr90"]
-    },
-    {
-      "input": ["item","jaopca:dust.electrotine_alloy"],
-      "solid": ["projectred-core:resource_item",1,104]
-    },
-    {
-      "input": ["item","hbm:ore_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","jaopca:dust.brick_seared"],
-      "solid": ["tconstruct:materials"]
-    },
-    {
-      "input": ["item","zollerngalaxy:exodusgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","mekanism:oreblock"],
-      "solid": ["mekanism:ingot",1,1]
-    },
-    {
-      "input": ["item","moreplanets:fronos_diamond_ore"],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","hbm:ore_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","zollerngalaxy:zoltinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","hbm:powder_actinium",1,32767],
-      "solid": ["hbm:ingot_actinium"]
-    },
-    {
-      "input": ["item","moreplanets:extrailonite_ore"],
-      "solid": ["moreplanets:extrailonite_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:zolironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:zyptorium_ore"],
-      "solid": ["moreplanets:zyptorium_ingot"]
-    },
-    {
-      "input": ["item","jaopca:dust.brick_nether"],
-      "solid": ["minecraft:netherbrick"]
-    },
-    {
-      "input": ["item","mekanism:dust",1,1],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_lead_ore"],
-      "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","hbm:powder_red_copper",1,32767],
-      "solid": ["hbm:ingot_red_copper"]
-    },
-    {
-      "input": ["item","hbm:powder_boron",1,32767],
-      "solid": ["hbm:ingot_boron"]
-    },
-    {
-      "input": ["item","moreplanets:infected_aluminum_ore"],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","galaxyspace:phobosblocks",1,2],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:nethercopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","jaopca:dust.copshowium"],
-      "solid": ["crossroads:ingot_copshowium"]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,2],
-      "solid": ["exoplanets:metalingot",1,2]
-    },
-    {
-      "input": ["item","crossroads:ore_ruby"],
-      "solid": ["crossroads:gem_ruby"]
-    },
-    {
-      "input": ["item","zollerngalaxy:centoironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:venus",1,9],
-      "solid": ["minecraft:quartz"]
-    },
-    {
-      "input": ["item","galaxyspace:mirandablocks",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:edentinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galaxyspace:marsores",1,5],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,9],
-      "solid": ["immersiveengineering:metal"]
-    },
-    {
-      "input": ["item","galacticraftplanets:item_basic_asteroids",1,3],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galaxyspace:proxima_b_blocks",1,7],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:powder_ra226",1,32767],
-      "solid": ["hbm:ingot_ra226"]
+      "input": ["item","jaopca:dust.magnesium"],
+      "solid": ["galaxyspace:ingots",1,1]
     },
     {
       "input": ["item","zollerngalaxy:edenaluminumore",1,32767],
       "solid": ["galacticraftcore:basic_item",1,5]
     },
     {
-      "input": ["item","zollerngalaxy:altumironore",1,32767],
+      "input": ["item","ic2c_extras:ironpurifiedcrushedore",1,32767],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","projectred-core:resource_item",1,252],
-      "solid": ["projectred-core:resource_item",1,104]
+      "input": ["item","moreplanets:infected_lapis_ore"],
+      "solid": ["minecraft:dye",1,4]
     },
     {
-      "input": ["item","exoplanets:metaldust",1,2],
-      "solid": ["exoplanets:metalingot",1,2]
+      "input": ["item","jaopca:dust.red_alloy"],
+      "solid": ["projectred-core:resource_item",1,103]
     },
     {
-      "input": ["item","jaopca:ic2_purified_crushed.tungsten"],
-      "solid": ["exoplanets:metalingot",1,7]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,3],
-      "solid": ["exoplanets:metalingot",1,3]
-    },
-    {
-      "input": ["item","hbm:powder_desh",1,32767],
-      "solid": ["hbm:ingot_desh"]
-    },
-    {
-      "input": ["item","zollerngalaxy:tociironore",1,32767],
+      "input": ["item","galacticraftplanets:item_basic_asteroids",1,3],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","hbm:powder_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","zollerngalaxy:kriffironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_nether_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","tconstruct:soil"],
-      "solid": ["tconstruct:materials"]
-    },
-    {
-      "input": ["item","minecraft:netherrack",1,32767],
-      "solid": ["minecraft:netherbrick"]
-    },
-    {
-      "input": ["item","hbm:crystal_osmiridium",1,32767],
-      "solid": ["hbm:ingot_osmiridium"]
+      "input": ["item","galacticraftcore:meteoric_iron_raw",1,32767],
+      "solid": ["galacticraftcore:item_basic_moon"]
     },
     {
       "input": ["item","hbm:ore_schrabidium",1,32767],
       "solid": ["hbm:ingot_schrabidium"]
     },
     {
+      "input": ["item","exoplanets:metalore",1,4],
+      "solid": ["exoplanets:metalingot",1,4]
+    },
+    {
+      "input": ["item","minecraft:iron_ingot"],
+      "solid": ["ic2:itemmisc",1,53]
+    },
+    {
+      "input": ["item","zollerngalaxy:perdironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:ioblocks",1,3],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","hbm:gravel_diamond"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","hbm:arc_electrode_burnt",1,3],
+      "solid": ["hbm:ingot_saturnite"]
+    },
+    {
+      "input": ["item","ic2c_extras:goldpurifiedcrushedore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:infected_tin_ore"],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","zollerngalaxy:purgironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:waste_trinitite_red"],
+      "solid": ["hbm:glass_trinitite"]
+    },
+    {
+      "input": ["item","jaopca:dust.meteoric_iron"],
+      "solid": ["galacticraftcore:item_basic_moon"]
+    },
+    {
+      "input": ["item","hbm:powder_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:haumeablocks",1,3],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","moreplanets:fronos_lead_ore"],
+      "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,4],
+      "solid": ["exoplanets:metalingot",1,4]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,2],
+      "solid": ["exoplanets:metalingot",1,2]
+    },
+    {
+      "input": ["item","galacticraftplanets:mars",1,2],
+      "solid": ["galacticraftplanets:item_basic_mars",1,2]
+    },
+    {
+      "input": ["item","immersiveengineering:ore",1,4],
+      "solid": ["immersiveengineering:metal",1,4]
+    },
+    {
+      "input": ["item","hbm:powder_combine_steel",1,32767],
+      "solid": ["hbm:ingot_combine_steel"]
+    },
+    {
+      "input": ["item","immersiveengineering:ore",1,5],
+      "solid": ["immersiveengineering:metal",1,5]
+    },
+    {
+      "input": ["item","galacticraftplanets:mars",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:ore_nether_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:centoironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","jaopca:dust.pigiron"],
+      "solid": ["tconstruct:ingots",1,4]
+    },
+    {
+      "input": ["item","hbm:arc_electrode_burnt"],
+      "solid": ["hbm:ingot_graphite"]
+    },
+    {
+      "input": ["item","galacticraftplanets:venus",1,11],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","zollerngalaxy:oasistinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,1],
+      "solid": ["exoplanets:metalingot",1,1]
+    },
+    {
+      "input": ["item","hbm:powder_neptunium",1,32767],
+      "solid": ["hbm:ingot_neptunium"]
+    },
+    {
+      "input": ["item","galacticraftplanets:venus",1,7],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,4],
+      "solid": ["exoplanets:metalingot",1,4]
+    },
+    {
+      "input": ["item","hbm:powder_boron",1,32767],
+      "solid": ["hbm:ingot_boron"]
+    },
+    {
+      "input": ["item","zollerngalaxy:caligrocopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","zollerngalaxy:purgaluminumore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,3],
+      "solid": ["exoplanets:metalingot",1,3]
+    },
+    {
+      "input": ["item","moreplanets:fronos_coal_ore"],
+      "solid": ["minecraft:coal"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_copper",1,32767],
+      "solid": ["hbm:ingot_copper"]
+    },
+    {
+      "input": ["item","moreplanets:illenium_ore"],
+      "solid": ["moreplanets:illenium_ingot"]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,7],
+      "solid": ["exoplanets:metalingot",1,7]
+    },
+    {
+      "input": ["item","zollerngalaxy:tocicopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","galaxyspace:gsores",1,1],
+      "solid": ["galaxyspace:ingots",1,2]
+    },
+    {
+      "input": ["item","hbm:ore_thorium",1,32767],
+      "solid": ["hbm:ingot_th232"]
+    },
+    {
+      "input": ["item","moreplanets:infected_copper_ore"],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","zollerngalaxy:astrosironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:caligroironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,7],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","moreplanets:infected_aluminum_ore"],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","moreplanets:fronos_diamond_ore"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,7],
+      "solid": ["exoplanets:metalingot",1,7]
+    },
+    {
+      "input": ["item","jaopca:ic2_purified_crushed.magnesium"],
+      "solid": ["galaxyspace:ingots",1,1]
+    },
+    {
+      "input": ["item","zollerngalaxy:edenleadore",1,32767],
+      "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,5],
+      "solid": ["exoplanets:metalingot",1,5]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "input": ["item","tconstruct:ore"],
+      "solid": ["tconstruct:ingots"]
+    },
+    {
+      "input": ["item","hbm:powder_bakelite",1,32767],
+      "solid": ["hbm:ingot_bakelite"]
+    },
+    {
+      "input": ["item","appliedenergistics2:material",1,49],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_steel",1,32767],
+      "solid": ["hbm:ingot_steel"]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.ardite"],
+      "solid": ["tconstruct:ingots",1,1]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,15],
+      "solid": ["immersiveengineering:metal",1,6]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,1],
+      "solid": ["exoplanets:metalingot",1,1]
+    },
+    {
+      "input": ["item","hbm:powder_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
+    },
+    {
+      "input": ["item","galacticraftplanets:asteroids_block",1,3],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","galacticraftplanets:item_basic_asteroids",1,9],
+      "solid": ["galacticraftplanets:item_basic_asteroids"]
+    },
+    {
+      "input": ["item","hbm:sand_boron"],
+      "solid": ["hbm:glass_boron"]
+    },
+    {
+      "input": ["item","zollerngalaxy:edentinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","ic2c_extras:ironcrushedore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","jaopca:dust.ardite"],
+      "solid": ["tconstruct:ingots",1,1]
+    },
+    {
+      "input": ["item","immersiveengineering:material",1,18],
+      "solid": ["immersiveengineering:material",1,19]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_gold",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","jaopca:dust.refined_glowstone"],
+      "solid": ["mekanism:ingot",1,3]
+    },
+    {
+      "input": ["item","hbm:ore_lead",1,32767],
+      "solid": ["hbm:ingot_lead"]
+    },
+    {
+      "input": ["item","hbm:powder_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
+    },
+    {
+      "input": ["item","hbm:powder_dura_steel",1,32767],
+      "solid": ["hbm:ingot_dura_steel"]
+    },
+    {
+      "input": ["item","jaopca:dust.brick"],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","galaxyspace:mercuryblocks",1,4],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:xantheonironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","projectred-core:resource_item",1,251],
+      "solid": ["projectred-core:resource_item",1,103]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,11],
+      "solid": ["immersiveengineering:metal",1,2]
+    },
+    {
+      "input": ["item","moreplanets:chalos_aluminum_ore"],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","galaxyspace:marsores",1,5],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","mekanism:dust",1,2],
+      "solid": ["mekanism:ingot",1,1]
+    },
+    {
       "input": ["item","hbm:powder_copper",1,32767],
       "solid": ["hbm:ingot_copper"]
     },
     {
-      "input": ["item","hbm:waste_trinitite"],
-      "solid": ["hbm:glass_trinitite"]
+      "input": ["item","zollerngalaxy:altumgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","zollerngalaxy:oasisleadore",1,32767],
+      "input": ["item","immersiveengineering:metal",1,10],
+      "solid": ["immersiveengineering:metal",1,1]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,13],
+      "solid": ["immersiveengineering:metal",1,4]
+    },
+    {
+      "input": ["item","hbm:powder_au198",1,32767],
+      "solid": ["hbm:ingot_au198"]
+    },
+    {
+      "input": ["item","mekanism:dust",1,3],
+      "solid": ["mekanism:ingot",1,5]
+    },
+    {
+      "input": ["item","jaopca:dust.electrotine_alloy"],
+      "solid": ["projectred-core:resource_item",1,104]
+    },
+    {
+      "input": ["item","zollerngalaxy:centogoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","minecraft:netherrack",1,32767],
+      "solid": ["minecraft:netherbrick"]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,2],
+      "solid": ["exoplanets:metalingot",1,2]
+    },
+    {
+      "input": ["item","projectred-core:resource_item",1,252],
+      "solid": ["projectred-core:resource_item",1,104]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,8],
+      "solid": ["exoplanets:metalingot",1,8]
+    },
+    {
+      "input": ["item","hbm:arc_electrode_burnt",1,2],
+      "solid": ["hbm:ingot_desh"]
+    },
+    {
+      "input": ["item","hbm:ore_nether_uranium_scorched",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:powder_schrabidate",1,32767],
+      "solid": ["hbm:ingot_schrabidate"]
+    },
+    {
+      "input": ["item","hbm:ore_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","hbm:powder_schrabidium",1,32767],
+      "solid": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "input": ["item","hbm:ash_digamma"],
+      "solid": ["hbm:glass_ash"]
+    },
+    {
+      "input": ["item","minecraft:clay",1,32767],
+      "solid": ["minecraft:hardened_clay"]
+    },
+    {
+      "input": ["item","zollerngalaxy:zolgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_aluminium",1,32767],
+      "solid": ["hbm:ingot_aluminium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:astrosgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","tconstruct:common_ore",1,2],
+      "solid": ["tconstruct:common_ingots",1,2]
+    },
+    {
+      "input": ["item","galacticraftplanets:asteroids_block",1,5],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","ic2:itemmisc",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.tungsten"],
+      "solid": ["exoplanets:metalingot",1,7]
+    },
+    {
+      "input": ["item","jaopca:dust.brick_seared"],
+      "solid": ["tconstruct:materials"]
+    },
+    {
+      "input": ["item","mekanism:oreblock"],
+      "solid": ["mekanism:ingot",1,1]
+    },
+    {
+      "input": ["item","thermalfoundation:material"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:ganymedeblocks",1,2],
+      "solid": ["galaxyspace:ingots",1,1]
+    },
+    {
+      "input": ["item","galacticraftcore:ic2compat",1,2],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","hbm:scrap_plastic",1,32767],
+      "solid": ["hbm:ingot_polymer"]
+    },
+    {
+      "input": ["item","galaxyspace:mirandablocks",1,7],
+      "solid": ["galaxyspace:ingots"]
+    },
+    {
+      "input": ["item","hbm:powder_lanthanium",1,32767],
+      "solid": ["hbm:ingot_lanthanium"]
+    },
+    {
+      "input": ["item","mekanism:otherdust",1,1],
+      "solid": ["mekanism:ingot",1,4]
+    },
+    {
+      "input": ["item","hbm:powder_dineutronium",1,32767],
+      "solid": ["hbm:ingot_dineutronium"]
+    },
+    {
+      "input": ["item","tconstruct:common_ore"],
+      "solid": ["tconstruct:common_ingots"]
+    },
+    {
+      "input": ["item","minecraft:iron_ore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:kriffgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:infected_silicon_ore"],
+      "solid": ["galacticraftcore:basic_item",1,2]
+    },
+    {
+      "input": ["item","moreplanets:chalos_copper_ore"],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,9],
+      "solid": ["exoplanets:metalingot",1,9]
+    },
+    {
+      "input": ["item","galaxyspace:mirandablocks",1,5],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","hbm:combine_scrap",1,32767],
+      "solid": ["hbm:ingot_combine_steel"]
+    },
+    {
+      "input": ["item","minecraft:lapis_ore",1,32767],
+      "solid": ["minecraft:dye",1,4]
+    },
+    {
+      "input": ["item","hbm:ore_nether_plutonium",1,32767],
+      "solid": ["hbm:ingot_plutonium"]
+    },
+    {
+      "input": ["item","immersiveengineering:ore",1,3],
+      "solid": ["immersiveengineering:metal",1,3]
+    },
+    {
+      "input": ["item","galacticraftplanets:mars",1,1],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","exoplanets:alloydust"],
+      "solid": ["exoplanets:alloyingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:caligrogoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_silicon_ore"],
+      "solid": ["galacticraftcore:basic_item",1,2]
+    },
+    {
+      "input": ["item","galacticraftplanets:item_basic_mars"],
+      "solid": ["galacticraftplanets:item_basic_mars",1,2]
+    },
+    {
+      "input": ["item","zollerngalaxy:vortexcopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","mekanism:dust",1,4],
+      "solid": ["mekanism:ingot",1,6]
+    },
+    {
+      "input": ["item","zollerngalaxy:zoltinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","moreplanets:diona_aluminum_ore"],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","zollerngalaxy:zolcopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,5],
+      "solid": ["exoplanets:metalingot",1,5]
+    },
+    {
+      "input": ["item","moreplanets:infected_cactus"],
+      "solid": ["minecraft:dye",1,2]
+    },
+    {
+      "input": ["item","ic2:itemmisc"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_aluminum_ore"],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","hbm:powder_euphemium",1,32767],
+      "solid": ["hbm:ingot_euphemium"]
+    },
+    {
+      "input": ["item","moreplanets:zyptorium_ore"],
+      "solid": ["moreplanets:zyptorium_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:exodusgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","mekanism:oreblock",1,5],
+      "solid": ["mekanism:ingot",1,8]
+    },
+    {
+      "input": ["item","hbm:powder_red_copper",1,32767],
+      "solid": ["hbm:ingot_red_copper"]
+    },
+    {
+      "input": ["item","hbm:powder_polonium",1,32767],
+      "solid": ["hbm:ingot_polonium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:tocileadore",1,32767],
       "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","zollerngalaxy:zolironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","notreepunching:clay_brick",1,32767],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","hbm:powder_lithium",1,32767],
+      "solid": ["hbm:lithium"]
+    },
+    {
+      "input": ["item","hbm:ore_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
+    },
+    {
+      "input": ["item","hbm:ore_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
+    },
+    {
+      "input": ["item","moreplanets:infected_gold_ore"],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c1_blocks",1,5],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","tconstruct:soil"],
+      "solid": ["tconstruct:materials"]
+    },
+    {
+      "input": ["item","moreplanets:diremsium_ore"],
+      "solid": ["moreplanets:diremsium_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:proxima_b_blocks",1,7],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,6],
+      "solid": ["exoplanets:metalingot",1,6]
+    },
+    {
+      "input": ["item","immersiveengineering:ore",1,1],
+      "solid": ["immersiveengineering:metal",1,1]
+    },
+    {
+      "input": ["item","minecraft:clay_ball",1,32767],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","zollerngalaxy:nethertinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","jaopca:ic2_purified_crushed.tungsten"],
+      "solid": ["exoplanets:metalingot",1,7]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_core",1,6],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","hbm:powder_ra226",1,32767],
+      "solid": ["hbm:ingot_ra226"]
+    },
+    {
+      "input": ["item","moreplanets:infected_emerald_ore"],
+      "solid": ["minecraft:emerald"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,1],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galacticraftplanets:asteroids_block",1,4],
+      "solid": ["galacticraftplanets:item_basic_asteroids"]
     },
     {
       "input": ["item","jaopca:ic2_purified_crushed.osmium"],
       "solid": ["mekanism:ingot",1,1]
     },
     {
-      "input": ["item","jaopca:dust.alubrass"],
-      "solid": ["tconstruct:ingots",1,5]
+      "input": ["item","zollerngalaxy:kriffcopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","galaxyspace:phobosblocks",1,4],
+      "solid": ["galaxyspace:ingots",1,2]
+    },
+    {
+      "input": ["item","mekanism:oreblock",1,2],
+      "solid": ["mekanism:ingot",1,6]
+    },
+    {
+      "input": ["item","galacticraftcore:ic2compat",1,1],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","crossroads:ore_tin"],
+      "solid": ["crossroads:ingot_tin"]
+    },
+    {
+      "input": ["item","moreplanets:infected_iron_ore"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:astrostinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","exoplanets:metaldust"],
+      "solid": ["exoplanets:metalingot"]
+    },
+    {
+      "input": ["item","hbm:sand_lead"],
+      "solid": ["hbm:glass_lead"]
+    },
+    {
+      "input": ["item","jaopca:ic2_purified_crushed.ardite"],
+      "solid": ["tconstruct:ingots",1,1]
     },
     {
       "input": ["item","exoplanets:trap1eore",1,9],
@@ -2783,1035 +3143,231 @@
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","minecraft:clay",1,32767],
-      "solid": ["minecraft:hardened_clay"]
-    },
-    {
-      "input": ["item","zollerngalaxy:tocigoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,3],
-      "solid": ["exoplanets:metalingot",1,3]
-    },
-    {
-      "input": ["item","zollerngalaxy:astrosironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:edenleadore",1,32767],
-      "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","exoplanets:alloydust",1,3],
-      "solid": ["exoplanets:alloyingot",1,3]
-    },
-    {
-      "input": ["item","galaxyspace:mercuryblocks",1,5],
-      "solid": ["galaxyspace:ingots",1,1]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,7],
-      "solid": ["exoplanets:metalingot",1,7]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,3],
-      "solid": ["exoplanets:metalingot",1,3]
-    },
-    {
-      "input": ["item","minecraft:iron_ore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_aluminum_ore"],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","moreplanets:fronos_lapis_ore"],
-      "solid": ["minecraft:dye",1,4]
-    },
-    {
-      "input": ["item","hbm:sand_lead"],
-      "solid": ["hbm:glass_lead"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore",1,1],
-      "solid": ["immersiveengineering:metal",1,1]
-    },
-    {
-      "input": ["item","galacticraftplanets:venus",1,6],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","jaopca:dust.magnesium"],
-      "solid": ["galaxyspace:ingots",1,1]
-    },
-    {
-      "input": ["item","zollerngalaxy:purgironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galaxyspace:mirandablocks",1,8],
-      "solid": ["galaxyspace:ingots",1,2]
-    },
-    {
-      "input": ["item","ic2c_extras:ironcrushedore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:xantheonironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,12],
-      "solid": ["immersiveengineering:metal",1,3]
-    },
-    {
-      "input": ["item","jaopca:ic2_purified_crushed.titanium"],
-      "solid": ["exoplanets:metalingot",1,6]
-    },
-    {
-      "input": ["item","moreplanets:fronos_copper_ore"],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","minecraft:lapis_ore",1,32767],
-      "solid": ["minecraft:dye",1,4]
-    },
-    {
-      "input": ["item","galaxyspace:haumeablocks",1,3],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","zollerngalaxy:nethertinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","moreplanets:infected_iron_ore"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","mekanism:otherdust",1,1],
-      "solid": ["mekanism:ingot",1,4]
-    },
-    {
-      "input": ["item","hbm:ore_nether_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,9],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","jaopca:dust.alumite"],
-      "solid": ["tconstruct:ingots",1,6]
-    },
-    {
-      "input": ["item","hbm:ball_resin",1,32767],
-      "solid": ["hbm:ingot_biorubber"]
-    },
-    {
-      "input": ["item","hbm:arc_electrode_burnt"],
-      "solid": ["hbm:ingot_graphite"]
-    },
-    {
-      "input": ["item","appliedenergistics2:material",1,49],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:infected_tin_ore"],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","hbm:ore_nether_uranium_scorched",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,2],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:infected_diamond_ore"],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore"],
-      "solid": ["exoplanets:metalingot"]
-    },
-    {
-      "input": ["item","moreplanets:diona_aluminum_ore"],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","mekanism:dust"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:vortexironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:infected_gold_ore"],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_gold",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","moreplanets:infected_clay_ball"],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","zollerngalaxy:edengoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","ic2:itemmisc"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:asteroids_block",1,4],
-      "solid": ["galacticraftplanets:item_basic_asteroids"]
-    },
-    {
-      "input": ["item","jaopca:dust.ardite"],
-      "solid": ["tconstruct:ingots",1,1]
-    },
-    {
-      "input": ["item","hbm:arc_electrode_burnt",1,3],
-      "solid": ["hbm:ingot_saturnite"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,1],
-      "solid": ["exoplanets:metalingot",1,1]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.osmium"],
-      "solid": ["mekanism:ingot",1,1]
-    },
-    {
-      "input": ["item","hbm:powder_neptunium",1,32767],
-      "solid": ["hbm:ingot_neptunium"]
-    },
-    {
-      "input": ["item","moreplanets:cheese_milk_ore"],
-      "solid": ["moreplanets:cheese_milk_curd"]
-    },
-    {
-      "input": ["item","jaopca:ic2_purified_crushed.magnesium"],
-      "solid": ["galaxyspace:ingots",1,1]
-    },
-    {
-      "input": ["item","minecraft:clay_ball",1,32767],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,7],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:scrap_plastic",1,32767],
-      "solid": ["hbm:ingot_polymer"]
-    },
-    {
-      "input": ["item","exoplanets:metalore"],
-      "solid": ["exoplanets:metalingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:caligroleadore",1,32767],
-      "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","zollerngalaxy:netherironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galaxyspace:ganymedeblocks",1,2],
-      "solid": ["galaxyspace:ingots",1,1]
-    },
-    {
-      "input": ["item","ic2c_extras:goldcrushedore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:purgtinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","zollerngalaxy:tocitinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","jaopca:dust.refined_glowstone"],
-      "solid": ["mekanism:ingot",1,3]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,19],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_uranium_scorched",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,11],
-      "solid": ["immersiveengineering:metal",1,2]
-    },
-    {
       "input": ["item","moreplanets:chalos_tin_ore"],
       "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c1_blocks",1,6],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:powder_bismuth",1,32767],
-      "solid": ["hbm:ingot_bismuth"]
-    },
-    {
-      "input": ["item","hbm:powder_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
-    },
-    {
-      "input": ["item","mekanism:oreblock",1,1],
-      "solid": ["mekanism:ingot",1,5]
-    },
-    {
-      "input": ["item","crossroads:ore_tin"],
-      "solid": ["crossroads:ingot_tin"]
-    },
-    {
-      "input": ["item","hbm:powder_tantalium",1,32767],
-      "solid": ["hbm:ingot_tantalium"]
-    },
-    {
-      "input": ["item","notreepunching:clay_brick",1,32767],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","hbm:powder_steel",1,32767],
-      "solid": ["hbm:ingot_steel"]
-    },
-    {
-      "input": ["item","zollerngalaxy:perdgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","galaxyspace:europablocks",1,5],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","hbm:ore_lead",1,32767],
-      "solid": ["hbm:ingot_lead"]
-    },
-    {
-      "input": ["item","hbm:gravel_diamond"],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","hbm:powder_dineutronium",1,32767],
-      "solid": ["hbm:ingot_dineutronium"]
-    },
-    {
-      "input": ["item","minecraft:cactus",1,32767],
-      "solid": ["minecraft:dye",1,2]
-    },
-    {
-      "input": ["item","galaxyspace:proxima_b_blocks",1,6],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galacticraftplanets:item_basic_asteroids",1,4],
-      "solid": ["galacticraftplanets:item_basic_asteroids"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore",1,2],
-      "solid": ["immersiveengineering:metal",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:zolcopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:ore_nether_plutonium",1,32767],
-      "solid": ["hbm:ingot_plutonium"]
-    },
-    {
-      "input": ["item","exoplanets:alloydust"],
-      "solid": ["exoplanets:alloyingot"]
-    },
-    {
-      "input": ["item","galaxyspace:mercuryblocks",1,4],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,10],
-      "solid": ["immersiveengineering:metal",1,1]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,18],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,5],
-      "solid": ["exoplanets:metalingot",1,5]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.tungsten"],
-      "solid": ["exoplanets:metalingot",1,7]
-    },
-    {
-      "input": ["item","galacticraftcore:basic_block_core",1,5],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","zollerngalaxy:edenironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:mars"],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","zollerngalaxy:tocicopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","tconstruct:common_ore"],
-      "solid": ["tconstruct:common_ingots"]
-    },
-    {
-      "input": ["item","galacticraftcore:basic_block_moon",1,1],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galaxyspace:mercuryblocks",1,3],
-      "solid": ["galaxyspace:ingots",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:atheontinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","hbm:ore_titanium",1,32767],
-      "solid": ["hbm:ingot_titanium"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,9],
-      "solid": ["exoplanets:metalingot",1,9]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.ardite"],
-      "solid": ["tconstruct:ingots",1,1]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,16],
-      "solid": ["immersiveengineering:metal",1,7]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,8],
-      "solid": ["exoplanets:metalingot",1,8]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,8],
-      "solid": ["exoplanets:metalingot",1,8]
-    },
-    {
-      "input": ["item","zollerngalaxy:xathtinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","moreplanets:infected_cactus"],
-      "solid": ["minecraft:dye",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:astrostinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","zollerngalaxy:oasisironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:ash_digamma"],
-      "solid": ["hbm:glass_ash"]
-    },
-    {
-      "input": ["item","galaxyspace:gsores",1,1],
-      "solid": ["galaxyspace:ingots",1,2]
-    },
-    {
-      "input": ["item","moreplanets:fronos_tin_ore"],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,4],
-      "solid": ["exoplanets:metalingot",1,4]
-    },
-    {
-      "input": ["item","hbm:powder_bakelite",1,32767],
-      "solid": ["hbm:ingot_bakelite"]
-    },
-    {
-      "input": ["item","jaopca:dust.brick"],
-      "solid": ["minecraft:brick"]
-    },
-    {
-      "input": ["item","zollerngalaxy:netherleadore",1,32767],
-      "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","tconstruct:common_ore",1,2],
-      "solid": ["tconstruct:common_ingots",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:exodusironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_aluminium",1,32767],
-      "solid": ["hbm:ingot_aluminium"]
-    },
-    {
-      "input": ["item","moreplanets:fronos_redstone_ore"],
-      "solid": ["minecraft:redstone"]
-    },
-    {
-      "input": ["item","galaxyspace:phobosblocks",1,4],
-      "solid": ["galaxyspace:ingots",1,2]
-    },
-    {
-      "input": ["item","zollerngalaxy:caligroironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:caligrogoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,4],
-      "solid": ["exoplanets:metalingot",1,4]
-    },
-    {
-      "input": ["item","galacticraftcore:basic_block_moon",1,2],
-      "solid": ["galacticraftcore:cheese_curd"]
-    },
-    {
-      "input": ["item","galacticraftcore:ic2compat"],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","moreplanets:infected_emerald_ore"],
-      "solid": ["minecraft:emerald"]
-    },
-    {
-      "input": ["item","moreplanets:infected_redstone_ore"],
-      "solid": ["minecraft:redstone"]
-    },
-    {
-      "input": ["item","hbm:powder_magnetized_tungsten",1,32767],
-      "solid": ["hbm:ingot_magnetized_tungsten"]
-    },
-    {
-      "input": ["item","galacticraftplanets:asteroids_block",1,5],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:alloydust",1,1],
-      "solid": ["exoplanets:alloyingot",1,1]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,4],
-      "solid": ["exoplanets:metalingot",1,4]
-    },
-    {
-      "input": ["item","zollerngalaxy:vortexcopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","galacticraftplanets:asteroids_block",1,3],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","ic2c_extras:ironpurifiedcrushedore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_lithium",1,32767],
-      "solid": ["hbm:lithium"]
-    },
-    {
-      "input": ["item","galaxyspace:proxima_b_blocks",1,5],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c1_blocks",1,7],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","mekanism:oreblock",1,2],
-      "solid": ["mekanism:ingot",1,6]
-    },
-    {
-      "input": ["item","moreplanets:diona_tin_ore"],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","hbm:ore_uranium_scorched",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","hbm:sand_boron"],
-      "solid": ["hbm:glass_boron"]
-    },
-    {
-      "input": ["item","zollerngalaxy:zolgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,8],
-      "solid": ["exoplanets:metalingot",1,8]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.magnesium"],
-      "solid": ["galaxyspace:ingots",1,1]
-    },
-    {
-      "input": ["item","moreplanets:illenium_ore"],
-      "solid": ["moreplanets:illenium_ingot"]
-    },
-    {
-      "input": ["item","zollerngalaxy:purgleadore",1,32767],
-      "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,5],
-      "solid": ["exoplanets:metalingot",1,5]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,1],
-      "solid": ["exoplanets:metalingot",1,1]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c1_blocks",1,5],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_beryllium",1,32767],
-      "solid": ["hbm:ingot_beryllium"]
-    },
-    {
-      "input": ["item","hbm:powder_calcium",1,32767],
-      "solid": ["hbm:ingot_calcium"]
-    },
-    {
-      "input": ["item","zollerngalaxy:mavethironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","hbm:powder_schrabidate",1,32767],
-      "solid": ["hbm:ingot_schrabidate"]
-    },
-    {
-      "input": ["item","jaopca:dust.knightslime"],
-      "solid": ["tconstruct:ingots",1,3]
-    },
-    {
-      "input": ["item","jaopca:ic2_purified_crushed.meteoric_iron"],
-      "solid": ["galacticraftcore:item_basic_moon"]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,6],
-      "solid": ["exoplanets:metalingot",1,6]
-    },
-    {
-      "input": ["item","jaopca:ic2_crushed.meteoric_iron"],
-      "solid": ["galacticraftcore:item_basic_moon"]
-    },
-    {
-      "input": ["item","zollerngalaxy:vortexgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,2],
-      "solid": ["exoplanets:metalingot",1,2]
-    },
-    {
-      "input": ["item","hbm:arc_electrode_burnt",1,2],
-      "solid": ["hbm:ingot_desh"]
-    },
-    {
-      "input": ["item","minecraft:gold_ore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,13],
-      "solid": ["immersiveengineering:metal",1,4]
-    },
-    {
-      "input": ["item","hbm:powder_niobium",1,32767],
-      "solid": ["hbm:ingot_niobium"]
-    },
-    {
-      "input": ["item","moreplanets:chalos_aluminum_ore"],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","thermalfoundation:material"],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","immersiveengineering:material",1,18],
-      "solid": ["immersiveengineering:material",1,19]
-    },
-    {
-      "input": ["item","hbm:powder_cadmium",1,32767],
-      "solid": ["hbm:ingot_cadmium"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore",1,3],
-      "solid": ["immersiveengineering:metal",1,3]
-    },
-    {
-      "input": ["item","tconstruct:ore"],
-      "solid": ["tconstruct:ingots"]
-    },
-    {
-      "input": ["item","hbm:powder_tcalloy",1,32767],
-      "solid": ["hbm:ingot_tcalloy"]
-    },
-    {
-      "input": ["item","galaxyspace:marsores",1,1],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","hbm:combine_scrap",1,32767],
-      "solid": ["hbm:ingot_combine_steel"]
     },
     {
       "input": ["item","galaxyspace:mirandablocks",1,6],
       "solid": ["minecraft:quartz"]
     },
     {
-      "input": ["item","zollerngalaxy:oasistinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","hbm:powder_lanthanium",1,32767],
-      "solid": ["hbm:ingot_lanthanium"]
-    },
-    {
-      "input": ["item","immersiveengineering:metal",1,17],
-      "solid": ["immersiveengineering:metal",1,8]
-    },
-    {
-      "input": ["item","ic2c_extras:goldpurifiedcrushedore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore"],
-      "solid": ["immersiveengineering:metal"]
-    },
-    {
-      "input": ["item","moreplanets:chalos_copper_ore"],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","exoplanets:metaldust"],
-      "solid": ["exoplanets:metalingot"]
-    },
-    {
-      "input": ["item","mekanism:dust",1,2],
-      "solid": ["mekanism:ingot",1,1]
-    },
-    {
-      "input": ["item","zollerngalaxy:perdironore",1,32767],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:venus",1,7],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","hbm:ore_nether_uranium",1,32767],
+      "input": ["item","hbm:powder_uranium",1,32767],
       "solid": ["hbm:ingot_uranium"]
     },
     {
-      "input": ["item","moreplanets:infected_lapis_ore"],
+      "input": ["item","hbm:powder_zirconium",1,32767],
+      "solid": ["hbm:ingot_zirconium"]
+    },
+    {
+      "input": ["item","hbm:powder_titanium",1,32767],
+      "solid": ["hbm:ingot_titanium"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_lapis_ore"],
       "solid": ["minecraft:dye",1,4]
     },
     {
-      "input": ["item","zollerngalaxy:exoduscopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","zollerngalaxy:xathgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","galacticraftplanets:mars",1,2],
-      "solid": ["galacticraftplanets:item_basic_mars",1,2]
-    },
-    {
-      "input": ["item","mekanism:oreblock",1,5],
-      "solid": ["mekanism:ingot",1,8]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,1],
-      "solid": ["exoplanets:metalingot",1,1]
-    },
-    {
-      "input": ["item","galaxyspace:mirandablocks",1,5],
-      "solid": ["minecraft:diamond"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,8],
+      "input": ["item","galaxyspace:barnarda_c1_blocks",1,7],
       "solid": ["galacticraftcore:basic_item",1,4]
     },
     {
-      "input": ["item","galacticraftcore:basic_block_core",1,6],
-      "solid": ["galacticraftcore:basic_item",1,4]
+      "input": ["item","minecraft:cactus",1,32767],
+      "solid": ["minecraft:dye",1,2]
     },
     {
-      "input": ["item","exoplanets:metaldust",1,7],
-      "solid": ["exoplanets:metalingot",1,7]
-    },
-    {
-      "input": ["item","tconstruct:common_ore",1,1],
-      "solid": ["tconstruct:common_ingots",1,1]
-    },
-    {
-      "input": ["item","moreplanets:fronos_emerald_ore"],
-      "solid": ["minecraft:emerald"]
-    },
-    {
-      "input": ["item","zollerngalaxy:purgaluminumore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","moreplanets:infected_coal_ore"],
-      "solid": ["moreplanets:infected_coal"]
-    },
-    {
-      "input": ["item","projectred-core:resource_item",1,251],
-      "solid": ["projectred-core:resource_item",1,103]
-    },
-    {
-      "input": ["item","hbm:sand_polonium"],
-      "solid": ["hbm:glass_polonium"]
-    },
-    {
-      "input": ["item","galacticraftcore:meteoric_iron_raw",1,32767],
-      "solid": ["galacticraftcore:item_basic_moon"]
-    },
-    {
-      "input": ["item","immersiveengineering:ore",1,5],
-      "solid": ["immersiveengineering:metal",1,5]
-    },
-    {
-      "input": ["item","galaxyspace:mirandablocks",1,7],
-      "solid": ["galaxyspace:ingots"]
-    },
-    {
-      "input": ["item","mekanism:oreblock",1,4],
-      "solid": ["mekanism:ingot",1,7]
-    },
-    {
-      "input": ["item","hbm:ore_nether_tungsten",1,32767],
-      "solid": ["hbm:ingot_tungsten"]
-    },
-    {
-      "input": ["item","galacticraftcore:basic_block_core",1,7],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","zollerngalaxy:caligrocopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","moreplanets:diremsium_ore"],
-      "solid": ["moreplanets:diremsium_ingot"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_uranium",1,32767],
-      "solid": ["hbm:ingot_uranium"]
-    },
-    {
-      "input": ["item","galacticraftplanets:venus",1,8],
+      "input": ["item","zollerngalaxy:caligroleadore",1,32767],
       "solid": ["galacticraftplanets:basic_item_venus",1,1]
-    },
-    {
-      "input": ["item","hbm:powder_lead",1,32767],
-      "solid": ["hbm:ingot_lead"]
-    },
-    {
-      "input": ["item","hbm:ore_cobalt",1,32767],
-      "solid": ["hbm:ingot_cobalt"]
-    },
-    {
-      "input": ["item","galaxyspace:gsores"],
-      "solid": ["galaxyspace:ingots"]
-    },
-    {
-      "input": ["item","zollerngalaxy:caligrotinore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","galacticraftcore:ic2compat",1,1],
-      "solid": ["galacticraftcore:basic_item",1,5]
-    },
-    {
-      "input": ["item","galaxyspace:ganymedeblocks",1,3],
-      "solid": ["galacticraftplanets:item_basic_asteroids"]
-    },
-    {
-      "input": ["item","zollerngalaxy:kriffgoldore",1,32767],
-      "solid": ["minecraft:gold_ingot"]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,9],
-      "solid": ["exoplanets:metalingot",1,9]
-    },
-    {
-      "input": ["item","moreplanets:setrorium_ore"],
-      "solid": ["moreplanets:setrorium_shard"]
-    },
-    {
-      "input": ["item","galaxyspace:barnarda_c_ores",1,1],
-      "solid": ["minecraft:iron_ingot"]
-    },
-    {
-      "input": ["item","mekanism:dust",1,6],
-      "solid": ["mekanism:ingot",1,7]
     },
     {
       "input": ["item","galacticraftcore:basic_block_moon"],
       "solid": ["galacticraftcore:basic_item",1,3]
     },
     {
-      "input": ["item","jaopca:dust.red_alloy"],
-      "solid": ["projectred-core:resource_item",1,103]
-    },
-    {
-      "input": ["item","jaopca:dust.meteoric_iron"],
-      "solid": ["galacticraftcore:item_basic_moon"]
-    },
-    {
-      "input": ["item","hbm:powder_australium",1,32767],
-      "solid": ["hbm:ingot_australium"]
-    },
-    {
-      "input": ["item","zollerngalaxy:purgcopperore",1,32767],
-      "solid": ["galacticraftcore:basic_item",1,3]
-    },
-    {
-      "input": ["item","exoplanets:trap1eore",1,7],
-      "solid": ["exoplanets:metalingot",1,7]
-    },
-    {
-      "input": ["item","hbm:powder_lithium",1,32767],
-      "solid": ["hbm:lithium"]
-    },
-    {
-      "input": ["item","hbm:ore_gneiss_schrabidium",1,32767],
-      "solid": ["hbm:ingot_schrabidium"]
-    },
-    {
-      "input": ["item","hbm:powder_polonium",1,32767],
-      "solid": ["hbm:ingot_polonium"]
-    },
-    {
-      "input": ["item","exoplanets:alloydust",1,2],
-      "solid": ["exoplanets:alloyingot",1,2]
-    },
-    {
-      "input": ["item","exoplanets:metaldust",1,5],
-      "solid": ["exoplanets:metalingot",1,5]
-    },
-    {
-      "input": ["item","galacticraftcore:ic2compat",1,2],
+      "input": ["item","galaxyspace:europablocks",1,5],
       "solid": ["galacticraftcore:basic_item",1,5]
     },
     {
-      "input": ["item","hbm:powder_thorium",1,32767],
-      "solid": ["hbm:ingot_th232"]
-    },
-    {
-      "input": ["item","moreplanets:inferumite_crystal_ore"],
-      "solid": ["moreplanets:inferumite_crystal"]
-    },
-    {
-      "input": ["item","mekanism:dust",1,3],
-      "solid": ["mekanism:ingot",1,5]
-    },
-    {
-      "input": ["item","zollerngalaxy:purggoldore",1,32767],
+      "input": ["item","mekanism:dust",1,1],
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","hbm:ore_gneiss_copper",1,32767],
-      "solid": ["hbm:ingot_copper"]
+      "input": ["item","hbm:powder_polymer",1,32767],
+      "solid": ["hbm:ingot_polymer"]
     },
     {
-      "input": ["item","moreplanets:fronos_silicon_ore"],
-      "solid": ["galacticraftcore:basic_item",1,2]
+      "input": ["item","moreplanets:diona_copper_ore"],
+      "solid": ["galacticraftcore:basic_item",1,3]
     },
     {
-      "input": ["item","galacticraftplanets:mars",1,3],
+      "input": ["item","galaxyspace:proxima_b_blocks",1,6],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","thermalfoundation:material",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,2],
+      "solid": ["exoplanets:metalingot",1,2]
+    },
+    {
+      "input": ["item","moreplanets:chalos_iron_ore"],
       "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:diona_tin_ore"],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","tconstruct:ore",1,1],
+      "solid": ["tconstruct:ingots",1,1]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,9],
+      "solid": ["exoplanets:metalingot",1,9]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,8],
+      "solid": ["exoplanets:metalingot",1,8]
+    },
+    {
+      "input": ["item","moreplanets:cheese_milk_ore"],
+      "solid": ["moreplanets:cheese_milk_curd"]
+    },
+    {
+      "input": ["item","jaopca:dust.alumite"],
+      "solid": ["tconstruct:ingots",1,6]
+    },
+    {
+      "input": ["item","zollerngalaxy:purgtinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","galaxyspace:marsores",1,1],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_quartz_ore"],
+      "solid": ["minecraft:quartz"]
+    },
+    {
+      "input": ["item","zollerngalaxy:vortexironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_iron_ore"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","jaopca:ic2_purified_crushed.meteoric_iron"],
+      "solid": ["galacticraftcore:item_basic_moon"]
     },
     {
       "input": ["item","hbm:powder_plutonium",1,32767],
       "solid": ["hbm:ingot_plutonium"]
     },
     {
-      "input": ["item","galacticraftplanets:item_basic_mars"],
-      "solid": ["galacticraftplanets:item_basic_mars",1,2]
+      "input": ["item","hbm:ore_nether_tungsten",1,32767],
+      "solid": ["hbm:ingot_tungsten"]
     },
     {
-      "input": ["item","immersiveengineering:metal",1,15],
-      "solid": ["immersiveengineering:metal",1,6]
-    },
-    {
-      "input": ["item","galacticraftplanets:venus",1,11],
-      "solid": ["galacticraftcore:basic_item",1,4]
-    },
-    {
-      "input": ["item","moreplanets:fronos_coal_ore"],
-      "solid": ["minecraft:coal"]
-    },
-    {
-      "input": ["item","minecraft:dye",1,4],
-      "solid": ["zollerngalaxy:lapisingot"]
-    },
-    {
-      "input": ["item","exoplanets:metalore",1,6],
-      "solid": ["exoplanets:metalingot",1,6]
-    },
-    {
-      "input": ["item","jaopca:dust.manyullyn"],
-      "solid": ["tconstruct:ingots",1,2]
-    },
-    {
-      "input": ["item","minecraft:iron_ingot"],
-      "solid": ["ic2:itemmisc",1,53]
-    },
-    {
-      "input": ["item","hbm:powder_iron",1,32767],
+      "input": ["item","zollerngalaxy:tociironore",1,32767],
       "solid": ["minecraft:iron_ingot"]
     },
     {
-      "input": ["item","zollerngalaxy:tocileadore",1,32767],
+      "input": ["item","moreplanets:fronos_emerald_ore"],
+      "solid": ["minecraft:emerald"]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.magnesium"],
+      "solid": ["galaxyspace:ingots",1,1]
+    },
+    {
+      "input": ["item","hbm:ore_beryllium",1,32767],
+      "solid": ["hbm:ingot_beryllium"]
+    },
+    {
+      "input": ["item","moreplanets:setrorium_ore"],
+      "solid": ["moreplanets:setrorium_shard"]
+    },
+    {
+      "input": ["item","galacticraftplanets:item_basic_asteroids",1,4],
+      "solid": ["galacticraftplanets:item_basic_asteroids"]
+    },
+    {
+      "input": ["item","hbm:ore_uranium_scorched",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:vortexgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","jaopca:dust.brick_nether"],
+      "solid": ["minecraft:netherbrick"]
+    },
+    {
+      "input": ["item","hbm:sand_uranium"],
+      "solid": ["hbm:glass_uranium"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_tin_ore"],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","galaxyspace:mirandablocks",1,8],
+      "solid": ["galaxyspace:ingots",1,2]
+    },
+    {
+      "input": ["item","hbm:sand_polonium"],
+      "solid": ["hbm:glass_polonium"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","exoplanets:alloydust",1,1],
+      "solid": ["exoplanets:alloyingot",1,1]
+    },
+    {
+      "input": ["item","ic2c_extras:goldcrushedore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:oasisleadore",1,32767],
       "solid": ["galacticraftplanets:basic_item_venus",1,1]
     },
     {
-      "input": ["item","ic2:itemmisc",1,1],
+      "input": ["item","zollerngalaxy:xathtinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","immersiveengineering:ore"],
+      "solid": ["immersiveengineering:metal"]
+    },
+    {
+      "input": ["item","hbm:waste_trinitite"],
+      "solid": ["hbm:glass_trinitite"]
+    },
+    {
+      "input": ["item","zollerngalaxy:xathgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_actinium",1,32767],
+      "solid": ["hbm:ingot_actinium"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_gold_ore"],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:purggoldore",1,32767],
       "solid": ["minecraft:gold_ingot"]
     },
     {
@@ -3819,8 +3375,452 @@
       "solid": ["minecraft:gold_ingot"]
     },
     {
-      "input": ["item","hbm:powder_combine_steel",1,32767],
-      "solid": ["hbm:ingot_combine_steel"]
+      "input": ["item","galaxyspace:mercuryblocks",1,5],
+      "solid": ["galaxyspace:ingots",1,1]
+    },
+    {
+      "input": ["item","zollerngalaxy:exoduscopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","mekanism:dust",1,7],
+      "solid": ["mekanism:ingot",1,8]
+    },
+    {
+      "input": ["item","zollerngalaxy:perdgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","mekanism:dust",1,6],
+      "solid": ["mekanism:ingot",1,7]
+    },
+    {
+      "input": ["item","moreplanets:inferumite_crystal_ore"],
+      "solid": ["moreplanets:inferumite_crystal"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,12],
+      "solid": ["immersiveengineering:metal",1,3]
+    },
+    {
+      "input": ["item","hbm:ore_nether_cobalt",1,32767],
+      "solid": ["hbm:ingot_cobalt"]
+    },
+    {
+      "input": ["item","zollerngalaxy:tocigoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:oasisironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,9],
+      "solid": ["immersiveengineering:metal"]
+    },
+    {
+      "input": ["item","hbm:arc_electrode_burnt",1,1],
+      "solid": ["hbm:ingot_lanthanium"]
+    },
+    {
+      "input": ["item","hbm:powder_iron",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_calcium",1,32767],
+      "solid": ["hbm:ingot_calcium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:oasisgoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:ball_resin",1,32767],
+      "solid": ["hbm:ingot_biorubber"]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.meteoric_iron"],
+      "solid": ["galacticraftcore:item_basic_moon"]
+    },
+    {
+      "input": ["item","jaopca:dust.manyullyn"],
+      "solid": ["tconstruct:ingots",1,2]
+    },
+    {
+      "input": ["item","galaxyspace:mercuryblocks",1,3],
+      "solid": ["galaxyspace:ingots",1,2]
+    },
+    {
+      "input": ["item","zollerngalaxy:exodusironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:netherironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c1_blocks",1,6],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","jaopca:ic2_purified_crushed.titanium"],
+      "solid": ["exoplanets:metalingot",1,6]
+    },
+    {
+      "input": ["item","hbm:powder_desh",1,32767],
+      "solid": ["hbm:ingot_desh"]
+    },
+    {
+      "input": ["item","galacticraftplanets:venus",1,9],
+      "solid": ["minecraft:quartz"]
+    },
+    {
+      "input": ["item","zollerngalaxy:kriffironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:proxima_b_blocks",1,5],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,6],
+      "solid": ["exoplanets:metalingot",1,6]
+    },
+    {
+      "input": ["item","minecraft:gold_ore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,16],
+      "solid": ["immersiveengineering:metal",1,7]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,8],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_core",1,5],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","mekanism:oreblock",1,4],
+      "solid": ["mekanism:ingot",1,7]
+    },
+    {
+      "input": ["item","galaxyspace:mirandablocks",1,3],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,19],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,6],
+      "solid": ["exoplanets:metalingot",1,6]
+    },
+    {
+      "input": ["item","tconstruct:common_ore",1,1],
+      "solid": ["tconstruct:common_ingots",1,1]
+    },
+    {
+      "input": ["item","zollerngalaxy:xathironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galaxyspace:ganymedeblocks",1,3],
+      "solid": ["galacticraftplanets:item_basic_asteroids"]
+    },
+    {
+      "input": ["item","galaxyspace:gsores"],
+      "solid": ["galaxyspace:ingots"]
+    },
+    {
+      "input": ["item","galacticraftcore:ic2compat"],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","exoplanets:metalore",1,1],
+      "solid": ["exoplanets:metalingot",1,1]
+    },
+    {
+      "input": ["item","hbm:powder_thorium",1,32767],
+      "solid": ["hbm:ingot_th232"]
+    },
+    {
+      "input": ["item","exoplanets:alloydust",1,3],
+      "solid": ["exoplanets:alloyingot",1,3]
+    },
+    {
+      "input": ["item","zollerngalaxy:tocitinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","moreplanets:infected_coal_ore"],
+      "solid": ["moreplanets:infected_coal"]
+    },
+    {
+      "input": ["item","moreplanets:infected_redstone_ore"],
+      "solid": ["minecraft:redstone"]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,7],
+      "solid": ["exoplanets:metalingot",1,7]
+    },
+    {
+      "input": ["item","zollerngalaxy:netherleadore",1,32767],
+      "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","moreplanets:infected_diamond_ore"],
+      "solid": ["minecraft:diamond"]
+    },
+    {
+      "input": ["item","zollerngalaxy:nethercopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","mekanism:oreblock",1,1],
+      "solid": ["mekanism:ingot",1,5]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,3],
+      "solid": ["exoplanets:metalingot",1,3]
+    },
+    {
+      "input": ["item","hbm:ore_nether_uranium",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","jaopca:dust.knightslime"],
+      "solid": ["tconstruct:ingots",1,3]
+    },
+    {
+      "input": ["item","galacticraftplanets:mars"],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","minecraft:dye",1,4],
+      "solid": ["zollerngalaxy:lapisingot"]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.osmium"],
+      "solid": ["mekanism:ingot",1,1]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_moon",1,6],
+      "solid": ["galacticraftcore:item_basic_moon",1,2]
+    },
+    {
+      "input": ["item","zollerngalaxy:edengoldore",1,32767],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","mekanism:dust"],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_magnetized_tungsten",1,32767],
+      "solid": ["hbm:ingot_magnetized_tungsten"]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,8],
+      "solid": ["exoplanets:metalingot",1,8]
+    },
+    {
+      "input": ["item","jaopca:dust.alubrass"],
+      "solid": ["tconstruct:ingots",1,5]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,14],
+      "solid": ["immersiveengineering:metal",1,5]
+    },
+    {
+      "input": ["item","hbm:crystal_osmiridium",1,32767],
+      "solid": ["hbm:ingot_osmiridium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:edenironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:powder_beryllium",1,32767],
+      "solid": ["hbm:ingot_beryllium"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,18],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_moon",1,1],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore",1,3],
+      "solid": ["exoplanets:metalingot",1,3]
+    },
+    {
+      "input": ["item","zollerngalaxy:edencopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","exoplanets:metalore"],
+      "solid": ["exoplanets:metalingot"]
+    },
+    {
+      "input": ["item","zollerngalaxy:mavethironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_lithium",1,32767],
+      "solid": ["hbm:lithium"]
+    },
+    {
+      "input": ["item","galacticraftplanets:venus",1,8],
+      "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","hbm:powder_bismuth",1,32767],
+      "solid": ["hbm:ingot_bismuth"]
+    },
+    {
+      "input": ["item","jaopca:dust.copshowium"],
+      "solid": ["crossroads:ingot_copshowium"]
+    },
+    {
+      "input": ["item","hbm:powder_lead",1,32767],
+      "solid": ["hbm:ingot_lead"]
+    },
+    {
+      "input": ["item","crossroads:ore_ruby"],
+      "solid": ["crossroads:gem_ruby"]
+    },
+    {
+      "input": ["item","exoplanets:alloydust",1,2],
+      "solid": ["exoplanets:alloyingot",1,2]
+    },
+    {
+      "input": ["item","hbm:powder_australium",1,32767],
+      "solid": ["hbm:ingot_australium"]
+    },
+    {
+      "input": ["item","hbm:powder_cadmium",1,32767],
+      "solid": ["hbm:ingot_cadmium"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_redstone_ore"],
+      "solid": ["minecraft:redstone"]
+    },
+    {
+      "input": ["item","moreplanets:infected_clay_ball"],
+      "solid": ["minecraft:brick"]
+    },
+    {
+      "input": ["item","hbm:powder_tcalloy",1,32767],
+      "solid": ["hbm:ingot_tcalloy"]
+    },
+    {
+      "input": ["item","zollerngalaxy:purgcopperore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","hbm:powder_sr90",1,32767],
+      "solid": ["hbm:ingot_sr90"]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_core",1,7],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","zollerngalaxy:altumironore",1,32767],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","moreplanets:fronos_copper_ore"],
+      "solid": ["galacticraftcore:basic_item",1,3]
+    },
+    {
+      "input": ["item","hbm:powder_tantalium",1,32767],
+      "solid": ["hbm:ingot_tantalium"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,2],
+      "solid": ["minecraft:gold_ingot"]
+    },
+    {
+      "input": ["item","hbm:ore_copper",1,32767],
+      "solid": ["hbm:ingot_copper"]
+    },
+    {
+      "input": ["item","immersiveengineering:metal",1,17],
+      "solid": ["immersiveengineering:metal",1,8]
+    },
+    {
+      "input": ["item","moreplanets:extrailonite_ore"],
+      "solid": ["moreplanets:extrailonite_ingot"]
+    },
+    {
+      "input": ["item","exoplanets:metaldust",1,5],
+      "solid": ["exoplanets:metalingot",1,5]
+    },
+    {
+      "input": ["item","galaxyspace:phobosblocks",1,2],
+      "solid": ["minecraft:iron_ingot"]
+    },
+    {
+      "input": ["item","galacticraftplanets:venus",1,6],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","hbm:ore_gneiss_uranium_scorched",1,32767],
+      "solid": ["hbm:ingot_uranium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:caligrotinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","zollerngalaxy:atheontinore",1,32767],
+      "solid": ["galacticraftcore:basic_item",1,4]
+    },
+    {
+      "input": ["item","exoplanets:trap1eore"],
+      "solid": ["exoplanets:metalingot"]
+    },
+    {
+      "input": ["item","immersiveengineering:ore",1,2],
+      "solid": ["immersiveengineering:metal",1,2]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,11],
+      "solid": ["galaxyspace:ingots"]
+    },
+    {
+      "input": ["item","hbm:ore_titanium",1,32767],
+      "solid": ["hbm:ingot_titanium"]
+    },
+    {
+      "input": ["item","zollerngalaxy:purgleadore",1,32767],
+      "solid": ["galacticraftplanets:basic_item_venus",1,1]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,9],
+      "solid": ["galacticraftcore:basic_item",1,5]
+    },
+    {
+      "input": ["item","galacticraftcore:basic_block_moon",1,2],
+      "solid": ["galacticraftcore:cheese_curd"]
+    },
+    {
+      "input": ["item","galaxyspace:barnarda_c_ores",1,12],
+      "solid": ["galaxyspace:ingots",1,2]
+    },
+    {
+      "input": ["item","jaopca:ic2_crushed.titanium"],
+      "solid": ["exoplanets:metalingot",1,6]
+    },
+    {
+      "input": ["item","hbm:powder_niobium",1,32767],
+      "solid": ["hbm:ingot_niobium"]
     }
   ]
 }

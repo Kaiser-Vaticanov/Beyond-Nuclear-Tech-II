@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: -3.0d,
+	text: [
+		"Cut the herbs using a knife."
+	],
+	dependencies: [
+		"de1942ef"
+	],
+	tasks: [{
+		uid: "2eb5739d",
+		type: "item",
+		items: [{
+			item: "notreepunching:grass_fiber"
+		}]
+	}]
+}
